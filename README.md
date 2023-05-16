@@ -1,6 +1,3 @@
-
-<img src='images\myLogo.png' alt='my logo'>
-
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -14,28 +11,32 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 VET-CLINIC-DATABASE ](#-vet-clinic-database-)
+  - [🛠 Built With SQL AND pgADMIN](#-built-with-sql-and-pgadmin)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+      - [pgAdmin](#pgadmin)
+      - [sql CMD](#sql-cmd)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [pgAdmin or preferred sql related applications](#pgadmin-or-preferred-sql-related-applications)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 
-# 📖 [VET-CLINIC-DATABASE] <a name="about-project"></a>
+# 📖 VET-CLINIC-DATABASE <a name="about-project"></a>
 
 
 **[VET-CLINIC-DATABASE]** is a database project built with sql providing useful data about animals kept in the clinic
@@ -53,11 +54,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Storing of animal names]**
-- **[Storing of other aninal data]**
-- **[Filtering of animal data according to query]**
+- **Storing of animal names**
+- **Storing of other aninal data**
+- **Filtering of animal data according to query**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,22 +116,26 @@ No deployment needed at the moment
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
+👤 **Author 1**
 
 - GitHub: [@githubhandle](https://github.com/David-Lanzz/)
 - Twitter: [@twitterhandle](https://twitter.com/LanzzDavid)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/david-lanzz)
+
+👤 **Author 2**
+
+- GitHub: [@githubhandle](https://github.com/muhammadUsmanaslam/)
+- Twitter: [@twitterhandle](https://twitter.com/M_Usman_Aslam)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/muhammad-usman-aslam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[clinic employees table]**
-- [ ] **[animal owners table]**
-- [ ] **[visits table]**
+- [ ] **clinic employees table**
+- [ ] **animal owners table**
+- [ ] **visits table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
